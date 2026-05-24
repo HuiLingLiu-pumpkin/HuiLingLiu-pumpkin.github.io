@@ -116,16 +116,16 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - This project aims to develop a human-oriented AI model that can understand and explain diverse physical phenomena and causal relationships through cognitive science-inspired learning mechanisms.
 
 
-<h2 id="honors-and-awards" class="section-title">🎖️ Honors and Awards</h2>
+<h1 id="honors-and-awards" class="section-title">🎖️ Honors and Awards</h1>
 - **SKKU STEM Full Scholarship**, 2024 – Present.
 - **IEIE Encouraging Paper Award**, 2024.
 
 
-<h2 id="patents" class="section-title">🪄 Patents</h2>
+<h1 id="patents" class="section-title">🪄 Patents</h1>
 - **Apparatus and Method for Prompt Tuning**  ( U.S. Patent Application No. 19/545,275; Pending.)
 
 
-<h2 id="academic-activities" class="section-title">💬 Academic Activities</h2>
+<h1 id="academic-activities" class="section-title">💬 Academic Activities</h1>
 - ### Reviewer
   - NeurIPS 2025
   - CVPR 2026
@@ -137,7 +137,7 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - **Introduction to Deep Learning**, SKKU, Fall 2024.
 
 
-<h2 id="education" class="section-title">🎓 Education</h2>
+<h1 id="education" class="section-title">🎓 Education</h1>
 - **Sungkyunkwan University**, South Korea, 2024.03 - Present 
   - Ph.D. Student, Department of Immersive Media Engineering
   - Advisor: Prof. [Sungeun Hong](https://www.csehong.com/)
