@@ -16,12 +16,18 @@ html {
 .section-title {
   position: relative;
   scroll-margin-top: 90px;
+  box-sizing: border-box;
+
+  display: flex !important;
+  align-items: center !important;
+
+  min-height: 44px;
+  padding: 0 12px !important;
+  margin-top: 1.2rem !important;
+  margin-bottom: 0.6rem !important;
+
+  line-height: 1.1 !important;
   border-radius: 6px;
-  padding: 4px 10px;
-  line-height: 1.25;
-  display: flex;
-  align-items: center;
-  min-height: 42px;
   transition: background-color 0.25s ease, box-shadow 0.25s ease;
 }
 
@@ -35,7 +41,7 @@ html {
   position: absolute;
   left: -70px;
   top: 50%;
-  margin-top: 8px;
+  margin-top: 6px;
   width: 60px;
   height: 60px;
   background-image: url("{{ '/images/Point.jpg' | relative_url }}");
