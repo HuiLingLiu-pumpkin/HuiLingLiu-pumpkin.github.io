@@ -74,23 +74,20 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 - **Introduction to Deep Learning**, SKKU, Fall 2024.
 
 # 📖 Educations
-## Education
 
-- *2024.03 - Present:* **Sungkyunkwan University**, South Korea
+- *2024.03 - Present:* Sungkyunkwan University, South Korea
   - Ph.D. Student, Department of Immersive Media Engineering
   - Advisor: Prof. [Sungeun Hong](https://www.csehong.com/)
-  - Mar. 2024 – Present
 
-- **Chongqing University of Technology**, China
+- *2020.09 - 2023.06:* Chongqing University of Technology, China
   - M.S. in Information and Communication Engineering
-  - Advisor: Prof. [Xiang Nan](https://scholar.google.com/citations?hl=en&user=i96jKnQAAAAJ&view_op=list_works&sortby=pubdate)
-  - Sept. 2020 – Jun. 2023
+  - Advisor: Prof. [Nan Xiang](https://scholar.google.com/citations?hl=en&user=i96jKnQAAAAJ&view_op=list_works&sortby=pubdate)
 
-- **KAIST**, South Korea
+- *2022.03 - 2022.08:* KAIST, South Korea
   - Visiting Student, [NICA Lab](https://nica.kaist.ac.kr/)
-  - Mar. 2022 – Aug. 2022
 
-- **Suzhou University**, China
+
+- *2015.09 - 2019.06:* Suzhou University, China
   - B.Eng. in Communication Engineering
-  - Sept. 2015 – Jun. 2019
+
 
