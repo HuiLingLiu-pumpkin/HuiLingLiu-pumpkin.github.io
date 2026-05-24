@@ -31,8 +31,8 @@ html {
   position: absolute;
   left: -42px;
   top: 50%;
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   background-image: url("{{ '/images/Point.jpg' | relative_url }}");
   background-size: contain;
   background-repeat: no-repeat;
@@ -102,15 +102,15 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 
 <h2 id="academic-activities" class="section-title">💬 Academic Activities</h2>
-### Reviewer
-- NeurIPS 2025
-- CVPR 2026
+- ### Reviewer
+  - NeurIPS 2025
+  - CVPR 2026
 
-### Teaching Assistant
-- **Advanced Machine Learning / Deep Learning**, SKKU, Spring 2026.
-- **Generative Deep Learning**, SKKU, Fall 2025.
-- **Introduction to Deep Learning**, SKKU, Spring 2025.
-- **Introduction to Deep Learning**, SKKU, Fall 2024.
+- ### Teaching Assistant
+  - **Advanced Machine Learning / Deep Learning**, SKKU, Spring 2026.
+  - **Generative Deep Learning**, SKKU, Fall 2025.
+  - **Introduction to Deep Learning**, SKKU, Spring 2025.
+  - **Introduction to Deep Learning**, SKKU, Fall 2024.
 
 
 <h2 id="education" class="section-title">🎓 Education</h2>
