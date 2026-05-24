@@ -70,7 +70,7 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 <h2 id="publications" class="section-title">📝 Publications</h2>
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
-  - Youngeun Kim<sup>*****</sup>, Youjia Zhang<sup>*****</sup>, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong<sup>†</sup>
+  - Youngeun Kim<sup>*</sup>, Youjia Zhang<sup>*</sup>, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong<sup>†</sup>
   - *CVPR 2026* [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
 
 - **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**
