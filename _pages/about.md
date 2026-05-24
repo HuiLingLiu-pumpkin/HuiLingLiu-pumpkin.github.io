@@ -39,17 +39,15 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong
   - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
 
+
 # 🗂️ Projects
+- ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (2026.03 – Present)  
+  - Funded by the National Research Foundation of Korea
+  - This project studies a world model-based robotic manipulation framework that integrates visual and tactile information under non-standard tactile sensor environments. It focuses on sensor-invariant tactile representation learning and visuo-tactile sim-to-real transfer for stable and precise robotic manipulation across diverse sensors and environments.
+
 - ### Human-oriented AI Model that Imitates the Human Growth Process based on Cognitive Science (2025.04 – 2025.12)  
   - Funded by the Institute for Information & Communications Technology Promotion (IITP)
   - This project aims to develop a human-oriented AI model that can understand and explain diverse physical phenomena and causal relationships through cognitive science-inspired learning mechanisms.
-
-### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors
-
-*2026.03 – Present*  
-Funded by the National Research Foundation of Korea
-
-This project studies a world model-based robotic manipulation framework that integrates visual and tactile information under non-standard tactile sensor environments. It focuses on sensor-invariant tactile representation learning and visuo-tactile sim-to-real transfer for stable and precise robotic manipulation across diverse sensors and environments.
 
 
 # 🎖 Honors and Awards
@@ -76,8 +74,23 @@ This project studies a world model-based robotic manipulation framework that int
 - **Introduction to Deep Learning**, SKKU, Fall 2024.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Education
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 - Present:* **Sungkyunkwan University**, South Korea
+  - Ph.D. Student, Department of Immersive Media Engineering
+  - Advisor: Prof. [Sungeun Hong](https://www.csehong.com/)
+  - Mar. 2024 – Present
+
+- **Chongqing University of Technology**, China
+  - M.S. in Information and Communication Engineering
+  - Advisor: Prof. [Xiang Nan](https://scholar.google.com/citations?hl=en&user=i96jKnQAAAAJ&view_op=list_works&sortby=pubdate)
+  - Sept. 2020 – Jun. 2023
+
+- **KAIST**, South Korea
+  - Visiting Student, [NICA Lab](https://nica.kaist.ac.kr/)
+  - Mar. 2022 – Aug. 2022
+
+- **Suzhou University**, China
+  - B.Eng. in Communication Engineering
+  - Sept. 2015 – Jun. 2019
+
