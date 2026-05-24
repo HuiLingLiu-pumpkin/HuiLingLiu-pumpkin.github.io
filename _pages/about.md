@@ -45,16 +45,32 @@ Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **SKKU STEM Full Scholarship**, 2024 – Present.
+- **IEIE Encouraging Paper Award**, 2024.
+
+
+# 🪄 Patents
+
+- **Apparatus and Method for Prompt Tuning**  
+  U.S. Patent Application No. 19/545,275; Pending.
+
+
+# 💬 Academic Activities
+### Reviewer
+
+- NeurIPS 2025
+- CVPR 2026
+
+### Teaching Assistant
+
+- **Advanced Machine Learning / Deep Learning**, SKKU, Spring 2026.
+- **Generative Deep Learning**, SKKU, Fall 2025.
+- **Introduction to Deep Learning**, SKKU, Spring 2025.
+- **Introduction to Deep Learning**, SKKU, Fall 2024.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
