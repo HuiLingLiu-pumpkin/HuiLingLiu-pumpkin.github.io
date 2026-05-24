@@ -47,6 +47,17 @@ html {
   60% { transform: translateY(-50%) translateX(-5px); opacity: 1; }
   100% { transform: translateY(-50%) translateX(0); opacity: 1; }
 }
+
+.venue {
+  color: #0033cc;
+  font-weight: 700;
+}
+
+.pub-link {
+  color: #2c7fb8;
+  font-weight: 400;
+}
+  
 </style>
 
 
@@ -71,28 +82,28 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 <h2 id="publications" class="section-title">📝 Publications</h2>
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
   - Youngeun Kim<sup>*</sup>, Youjia Zhang<sup>*</sup>, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong<sup>†</sup>
-  - *CVPR 2026* [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
+  - <span class="venue">CVPR 2026</span> [<a class="pub-link" href="https://aim-skku.github.io/ZOO-Prune/">Project page</a>]
 
 - **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**
   - Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, **Huiling Liu**, and Sungeun Hong<sup>†</sup>
-  - *NeurIPS 2025* [[Project Page](https://aim-skku.github.io/ADAPT/)]
+  - <span class="venue">NeurIPS 2025</span> [<a class="pub-link" href="https://aim-skku.github.io/ADAPT/">Project page</a>]
 
 - **CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models**
   - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong<sup>†</sup>
-  - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
+  - <span class="venue">IJCV 2025</span> [Q1, JCR Top 3%, IF 11.6] [<a class="pub-link" href="https://link.springer.com/article/10.1007/s11263-025-02508-1">DOI</a>]
 
 - **Identifying and Ranking Influential Spreaders in Complex Networks by Localized Decreasing Gravity Model**
   - Nan Xiang<sup>†</sup>, Xiao Tang, **Huiling Liu**, and Xiaoxia Ma
-  - *The Computer Journal*, 67(5): 1727–1746, 2024 [[DOI](https://doi.org/10.1093/comjnl/bxad097)]
+  - <span class="venue">The Computer Journal, 2024</span>, 67(5): 1727–1746 [<a class="pub-link" href="https://doi.org/10.1093/comjnl/bxad097">DOI</a>]
 
 - **Fiber-Optic Sensors for Online Detection of Corrosion Degree of Stone Artifacts**
   - Xianshun Cheng, Lingnan Kong, Yang Liu, Xuefeng He, Quanhua Xie, Xiaoling Peng, Yuan Zhou, Yuanyuan He, Bo Wan, **Huiling Liu**, Dong Lai, and Nianbing Zhong<sup>†</sup>
-  - *IEEE Sensors Journal*, 24(4): 4449–4457, 2024 [[DOI](https://doi.org/10.1109/JSEN.2023.3343074)]
+  - <span class="venue">IEEE Sensors Journal, 2024</span>, 24(4): 4449–4457 [<a class="pub-link" href="https://doi.org/10.1109/JSEN.2023.3343074">DOI</a>]
 
 - **Graph-Augmentation-Free Self-Supervised Learning for Social Recommendation**
   - Nan Xiang<sup>†</sup>, Xiaoxia Ma, **Huiling Liu**, Xiao Tang, and Lu Wang
-  - *Applied Sciences*, 13(5): 3034, 2023 [[DOI](https://doi.org/10.3390/app13053034)]
-
+  - <span class="venue">Applied Sciences, 2023</span>, 13(5): 3034 [<a class="pub-link" href="https://doi.org/10.3390/app13053034">DOI</a>]
+<small><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</small>
 
 <h2 id="projects" class="section-title">📁 Projects</h2>
 - ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (2026.03 – Present)  
