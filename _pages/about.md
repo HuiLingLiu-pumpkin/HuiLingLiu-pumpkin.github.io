@@ -20,12 +20,15 @@ redirect_from:
 I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the [AI & Media Lab (AIM Lab)](https://aim.skku.edu/home). My research interests include vision-language models, multimodal learning, visual token pruning, and test-time adaptation.
 
 
-# 🔥 News
+<a id="news"></a>
+## 🔥 News
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2026. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR: Top 10%).
 
-# 📝 Publications 
+
+<a id="publications"></a>
+## 📝 Publications
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
   - Youngeun Kim, Youjia Zhang*, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong
   - *CVPR 2026* [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
@@ -39,7 +42,8 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
 
 
-# 🗂️ Projects
+<a id="projects"></a>
+## 📁 Projects
 - ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (2026.03 – Present)  
   - Funded by the National Research Foundation of Korea
   - This project studies a world model-based robotic manipulation framework that integrates visual and tactile information under non-standard tactile sensor environments. It focuses on sensor-invariant tactile representation learning and visuo-tactile sim-to-real transfer for stable and precise robotic manipulation across diverse sensors and environments.
@@ -49,16 +53,19 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - This project aims to develop a human-oriented AI model that can understand and explain diverse physical phenomena and causal relationships through cognitive science-inspired learning mechanisms.
 
 
-# 🎖 Honors and Awards
+<a id="honors-and-awards"></a>
+## 🎖️ Honors and Awards
 - **SKKU STEM Full Scholarship**, 2024 – Present.
 - **IEIE Encouraging Paper Award**, 2024.
 
 
-# 🪄 Patents
+<a id="patents"></a>
+## 🪄 Patents
 - **Apparatus and Method for Prompt Tuning**  ( U.S. Patent Application No. 19/545,275; Pending.)
 
 
-# 💬 Academic Activities
+<a id="academic-activities"></a>
+## 💬 Academic Activities
 ### Reviewer
 - NeurIPS 2025
 - CVPR 2026
@@ -69,7 +76,9 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 - **Introduction to Deep Learning**, SKKU, Spring 2025.
 - **Introduction to Deep Learning**, SKKU, Fall 2024.
 
-# 📖 Educations
+
+<a id="education"></a>
+## 🎓 Education
 - **Sungkyunkwan University**, South Korea, 2024.03 - Present 
   - Ph.D. Student, Department of Immersive Media Engineering
   - Advisor: Prof. [Sungeun Hong](https://www.csehong.com/)
