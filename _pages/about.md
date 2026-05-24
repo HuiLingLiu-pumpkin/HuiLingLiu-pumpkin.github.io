@@ -81,6 +81,18 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong†
   - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
 
+- **Identifying and Ranking Influential Spreaders in Complex Networks by Localized Decreasing Gravity Model**
+  - Nan Xiang†, Xiao Tang, **Huiling Liu**, and Xiaoxia Ma
+  - *The Computer Journal*, 67(5): 1727–1746, 2024 [[DOI](https://doi.org/10.1093/comjnl/bxad097)]
+
+- **Fiber-Optic Sensors for Online Detection of Corrosion Degree of Stone Artifacts**
+  - Xianshun Cheng, Lingnan Kong, Yang Liu, Xuefeng He, Quanhua Xie, Xiaoling Peng, Yuan Zhou, Yuanyuan He, Bo Wan, **Huiling Liu**, Dong Lai, and Nianbing Zhong†
+  - *IEEE Sensors Journal*, 24(4): 4449–4457, 2024 [[DOI](https://doi.org/10.1109/JSEN.2023.3343074)]
+
+- **Graph-Augmentation-Free Self-Supervised Learning for Social Recommendation**
+  - Nan Xiang†, Xiaoxia Ma, **Huiling Liu**, Xiao Tang, and Lu Wang
+  - *Applied Sciences*, 13(5): 3034, 2023 [[DOI](https://doi.org/10.3390/app13053034)]
+
 
 <h2 id="projects" class="section-title">📁 Projects</h2>
 - ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (2026.03 – Present)  
