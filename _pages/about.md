@@ -41,7 +41,7 @@ html {
   position: absolute;
   left: -70px;
   top: 50%;
-  margin-top: 3px;
+  margin-top: 2px;
   width: 60px;
   height: 60px;
   background-image: url("{{ '/images/Point.jpg' | relative_url }}");
