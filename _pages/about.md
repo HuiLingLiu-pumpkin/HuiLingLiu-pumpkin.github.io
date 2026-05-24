@@ -81,6 +81,13 @@ html {
   color: #2c7fb8;
   font-weight: 400;
 }
+
+.pub-note {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: -0.3rem;
+  margin-bottom: 0.8rem;
+}
   
 </style>
 
@@ -104,6 +111,9 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 
 <h1 id="publications" class="section-title">📝 Publications</h1>
+
+<p class="pub-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
+
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
   - Youngeun Kim<sup>*</sup>, Youjia Zhang<sup>*</sup>, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong<sup>†</sup>
   - <span class="venue">CVPR 2026</span> [<a class="pub-link" href="https://aim-skku.github.io/ZOO-Prune/">Project page</a>]
@@ -116,7 +126,7 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong<sup>†</sup>
   - <span class="venue">IJCV 2025</span> [Q1, JCR Top 3%, IF 11.6] [<a class="pub-link" href="https://link.springer.com/article/10.1007/s11263-025-02508-1">DOI</a>]
 
-<p class="pub-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
+
 
 
 <h1 id="projects" class="section-title">📁 Projects</h1>
