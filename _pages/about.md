@@ -130,6 +130,7 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 <p class="pub-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
 
+
 <h1 id="projects" class="section-title">📁 Projects</h1>
 - ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (2026.03 – Present)  
   - Funded by the National Research Foundation of Korea
@@ -141,12 +142,12 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 
 <h1 id="honors-and-awards" class="section-title">🎖️ Honors and Awards</h1>
-- **SKKU STEM Full Scholarship**, 2024 – Present.
-- **IEIE Encouraging Paper Award**, 2024.
+- SKKU STEM Full Scholarship, 2024 – Present.
+- IEIE Encouraging Paper Award, 2024.
 
 
 <h1 id="patents" class="section-title">🪄 Patents</h1>
-- **Apparatus and Method for Prompt Tuning**  ( U.S. Patent Application No. 19/545,275; Pending.)
+- Apparatus and Method for Prompt Tuning  ( U.S. Patent Application No. 19/545,275; Pending.)
 
 
 <h1 id="academic-activities" class="section-title">💬 Academic Activities</h1>
@@ -155,10 +156,10 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - CVPR 2026
 
 - ### Teaching Assistant
-  - **Advanced Machine Learning / Deep Learning**, SKKU, Spring 2026.
-  - **Generative Deep Learning**, SKKU, Fall 2025.
-  - **Introduction to Deep Learning**, SKKU, Spring 2025.
-  - **Introduction to Deep Learning**, SKKU, Fall 2024.
+  - Advanced Machine Learning / Deep Learning, SKKU, Spring 2026.
+  - Generative Deep Learning, SKKU, Fall 2025.
+  - Introduction to Deep Learning, SKKU, Spring 2025.
+  - Introduction to Deep Learning, SKKU, Fall 2024.
 
 
 <h1 id="education" class="section-title">🎓 Education</h1>
