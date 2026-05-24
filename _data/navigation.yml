@@ -1,25 +1,28 @@
-# main links links
+# main links
 main:
+  - title: "Homepage"
+    url: "/"
+
   - title: "About Me"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "/#patents"
 
   - title: "Academic Activities"
-    url: "/#-academic-activities"
+    url: "/#academic-activities"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
