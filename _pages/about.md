@@ -17,7 +17,11 @@ html {
   position: relative;
   scroll-margin-top: 90px;
   border-radius: 6px;
-  padding-left: 6px;
+  padding: 4px 10px;
+  line-height: 1.25;
+  display: flex;
+  align-items: center;
+  min-height: 42px;
   transition: background-color 0.25s ease, box-shadow 0.25s ease;
 }
 
@@ -31,7 +35,7 @@ html {
   position: absolute;
   left: -70px;
   top: 50%;
-  margin-top: 10px;
+  margin-top: 8px;
   width: 60px;
   height: 60px;
   background-image: url("{{ '/images/Point.jpg' | relative_url }}");
