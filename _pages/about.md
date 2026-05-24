@@ -116,18 +116,6 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong<sup>†</sup>
   - <span class="venue">IJCV 2025</span> [Q1, JCR Top 3%, IF 11.6] [<a class="pub-link" href="https://link.springer.com/article/10.1007/s11263-025-02508-1">DOI</a>]
 
-- **Identifying and Ranking Influential Spreaders in Complex Networks by Localized Decreasing Gravity Model**
-  - Nan Xiang<sup>†</sup>, Xiao Tang, **Huiling Liu**, and Xiaoxia Ma
-  - <span class="venue">The Computer Journal, 2024</span>, 67(5): 1727–1746 [<a class="pub-link" href="https://doi.org/10.1093/comjnl/bxad097">DOI</a>]
-
-- **Fiber-Optic Sensors for Online Detection of Corrosion Degree of Stone Artifacts**
-  - Xianshun Cheng, Lingnan Kong, Yang Liu, Xuefeng He, Quanhua Xie, Xiaoling Peng, Yuan Zhou, Yuanyuan He, Bo Wan, **Huiling Liu**, Dong Lai, and Nianbing Zhong<sup>†</sup>
-  - <span class="venue">IEEE Sensors Journal, 2024</span>, 24(4): 4449–4457 [<a class="pub-link" href="https://doi.org/10.1109/JSEN.2023.3343074">DOI</a>]
-
-- **Graph-Augmentation-Free Self-Supervised Learning for Social Recommendation**
-  - Nan Xiang<sup>†</sup>, Xiaoxia Ma, **Huiling Liu**, Xiao Tang, and Lu Wang
-  - <span class="venue">Applied Sciences, 2023</span>, 13(5): 3034 [<a class="pub-link" href="https://doi.org/10.3390/app13053034">DOI</a>]
-
 <p class="pub-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
 
 
