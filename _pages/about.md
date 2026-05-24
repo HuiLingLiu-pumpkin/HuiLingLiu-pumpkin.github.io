@@ -15,27 +15,30 @@ html {
 
 .section-title {
   position: relative;
-  scroll-margin-top: 80px;
+  scroll-margin-top: 90px;
+  border-radius: 6px;
+  padding-left: 6px;
+  transition: background-color 0.25s ease, box-shadow 0.25s ease;
 }
 
-.section-title:target::before {
+.section-title.nav-highlight {
+  background-color: #fff3b0 !important;
+  box-shadow: 0 0 0 2px rgba(255, 200, 0, 0.45);
+}
+
+.section-title.nav-highlight::before {
   content: "👉";
   position: absolute;
   left: -36px;
-  animation: point-bounce 1.2s ease-in-out 2;
-}
-
-.section-title:target {
-  background: #fff7d6;
-  border-radius: 6px;
-  padding-left: 6px;
-  transition: background 0.3s ease;
+  top: 2px;
+  z-index: 10;
+  animation: point-bounce 0.9s ease-in-out 3;
 }
 
 @keyframes point-bounce {
   0% { transform: translateX(-8px); opacity: 0; }
   30% { transform: translateX(0); opacity: 1; }
-  60% { transform: translateX(-4px); opacity: 1; }
+  60% { transform: translateX(-5px); opacity: 1; }
   100% { transform: translateX(0); opacity: 1; }
 }
 </style>
@@ -121,3 +124,38 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - B.Eng. in Communication Engineering
 
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  function highlightSection(id) {
+    if (!id) return;
+
+    var target = document.getElementById(id.replace(/^#/, ""));
+    if (!target) return;
+
+    target.classList.remove("nav-highlight");
+    void target.offsetWidth;
+    target.classList.add("nav-highlight");
+
+    setTimeout(function () {
+      target.classList.remove("nav-highlight");
+    }, 2600);
+  }
+
+  document.querySelectorAll('a[href^="/#"], a[href^="#"]').forEach(function (link) {
+    link.addEventListener("click", function () {
+      var href = link.getAttribute("href") || "";
+      var hash = href.includes("#") ? href.substring(href.indexOf("#") + 1) : "";
+
+      setTimeout(function () {
+        highlightSection(hash);
+      }, 120);
+    });
+  });
+
+  if (window.location.hash) {
+    setTimeout(function () {
+      highlightSection(window.location.hash.substring(1));
+    }, 300);
+  }
+});
+</script>
