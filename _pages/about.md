@@ -27,20 +27,17 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 # 📝 Publications 
 
-**ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**  
-Youngeun Kim, Youjia Zhang*, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong  
-*CVPR 2026*  
-[[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
+- **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
+  - Youngeun Kim, Youjia Zhang*, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong
+  - *CVPR 2026* [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
 
-**Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**  
-Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, **Huiling Liu**, and Sungeun Hong  
-*NeurIPS 2025*  
-[[Project Page](https://aim-skku.github.io/ADAPT/)]
+- **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**
+  - Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, **Huiling Liu**, and Sungeun Hong
+  - *NeurIPS 2025* [[Project Page](https://aim-skku.github.io/ADAPT/)]
 
-**CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models**  
-Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong  
-*International Journal of Computer Vision (IJCV), 2025*  
-[Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)] 
+- **CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models**
+  - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong
+  - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
 
 
 
@@ -51,8 +48,7 @@ Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong
 
 # 🪄 Patents
 
-- **Apparatus and Method for Prompt Tuning**  
-  U.S. Patent Application No. 19/545,275; Pending.
+- **Apparatus and Method for Prompt Tuning**  ( U.S. Patent Application No. 19/545,275; Pending.)
 
 
 # 💬 Academic Activities
