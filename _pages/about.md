@@ -26,7 +26,6 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR: Top 10%).
 
 # 📝 Publications 
-
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
   - Youngeun Kim, Youjia Zhang*, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong
   - *CVPR 2026* [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
@@ -56,25 +55,21 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 
 # 🪄 Patents
-
 - **Apparatus and Method for Prompt Tuning**  ( U.S. Patent Application No. 19/545,275; Pending.)
 
 
 # 💬 Academic Activities
 ### Reviewer
-
 - NeurIPS 2025
 - CVPR 2026
 
 ### Teaching Assistant
-
 - **Advanced Machine Learning / Deep Learning**, SKKU, Spring 2026.
 - **Generative Deep Learning**, SKKU, Fall 2025.
 - **Introduction to Deep Learning**, SKKU, Spring 2025.
 - **Introduction to Deep Learning**, SKKU, Fall 2024.
 
 # 📖 Educations
-
 - **Sungkyunkwan University**, South Korea, 2024.03 - Present 
   - Ph.D. Student, Department of Immersive Media Engineering
   - Advisor: Prof. [Sungeun Hong](https://www.csehong.com/)
