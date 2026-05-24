@@ -39,6 +39,17 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong
   - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
 
+# 🗂️ Projects
+- ### Human-oriented AI Model that Imitates the Human Growth Process based on Cognitive Science (2025.04 – 2025.12)  
+  - Funded by the Institute for Information & Communications Technology Promotion (IITP)
+  - This project aims to develop a human-oriented AI model that can understand and explain diverse physical phenomena and causal relationships through cognitive science-inspired learning mechanisms.
+
+### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors
+
+*2026.03 – Present*  
+Funded by the National Research Foundation of Korea
+
+This project studies a world model-based robotic manipulation framework that integrates visual and tactile information under non-standard tactile sensor environments. It focuses on sensor-invariant tactile representation learning and visuo-tactile sim-to-real transfer for stable and precise robotic manipulation across diverse sensors and environments.
 
 
 # 🎖 Honors and Awards
