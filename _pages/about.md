@@ -73,13 +73,13 @@ html {
 I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the [AI & Media Lab (AIM Lab)](https://aim.skku.edu/home). My research interests include vision-language models, multimodal learning, visual token pruning, and test-time adaptation.
 
 
-<h2 id="news" class="section-title">🔥 News</h1>
+<h1 id="news" class="section-title">🔥 News</h1>
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2026. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR: Top 10%).
 
 
-<h2 id="publications" class="section-title">📝 Publications</h1>
+<h1 id="publications" class="section-title">📝 Publications</h1>
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
   - Youngeun Kim<sup>*</sup>, Youjia Zhang<sup>*</sup>, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong<sup>†</sup>
   - <span class="venue">CVPR 2026</span> [<a class="pub-link" href="https://aim-skku.github.io/ZOO-Prune/">Project page</a>]
@@ -106,7 +106,7 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 <p class="pub-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
 
-<h2 id="projects" class="section-title">📁 Projects</h1>
+<h1 id="projects" class="section-title">📁 Projects</h1>
 - ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (2026.03 – Present)  
   - Funded by the National Research Foundation of Korea
   - This project studies a world model-based robotic manipulation framework that integrates visual and tactile information under non-standard tactile sensor environments. It focuses on sensor-invariant tactile representation learning and visuo-tactile sim-to-real transfer for stable and precise robotic manipulation across diverse sensors and environments.
