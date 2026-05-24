@@ -27,19 +27,25 @@ html {
 }
 
 .section-title.nav-highlight::before {
-  content: "👉";
+  content: "";
   position: absolute;
-  left: -36px;
-  top: 2px;
+  left: -42px;
+  top: 50%;
+  width: 28px;
+  height: 28px;
+  background-image: url("{{ '/images/Point.jpg' | relative_url }}");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   z-index: 10;
-  animation: point-bounce 0.9s ease-in-out 3;
+  animation: point-bounce-img 0.9s ease-in-out 3;
 }
 
-@keyframes point-bounce {
-  0% { transform: translateX(-8px); opacity: 0; }
-  30% { transform: translateX(0); opacity: 1; }
-  60% { transform: translateX(-5px); opacity: 1; }
-  100% { transform: translateX(0); opacity: 1; }
+@keyframes point-bounce-img {
+  0% { transform: translateY(-50%) translateX(-8px); opacity: 0; }
+  30% { transform: translateY(-50%) translateX(0); opacity: 1; }
+  60% { transform: translateY(-50%) translateX(-5px); opacity: 1; }
+  100% { transform: translateY(-50%) translateX(0); opacity: 1; }
 }
 </style>
 
