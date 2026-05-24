@@ -29,10 +29,10 @@ html {
 .section-title.nav-highlight::before {
   content: "";
   position: absolute;
-  left: -42px;
+  left: -70px;
   top: 50%;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   background-image: url("{{ '/images/Point.jpg' | relative_url }}");
   background-size: contain;
   background-repeat: no-repeat;
