@@ -38,14 +38,27 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   z-index: 10;
+  transform: translateY(-50%);
   animation: point-bounce-img 0.9s ease-in-out 3;
 }
 
 @keyframes point-bounce-img {
-  0% { transform: translateY(-50%) translateX(-8px); opacity: 0; }
-  30% { transform: translateY(-50%) translateX(0); opacity: 1; }
-  60% { transform: translateY(-50%) translateX(-5px); opacity: 1; }
-  100% { transform: translateY(-50%) translateX(0); opacity: 1; }
+  0% {
+    transform: translateY(-50%) translateX(-8px);
+    opacity: 0;
+  }
+  30% {
+    transform: translateY(-50%) translateX(0);
+    opacity: 1;
+  }
+  60% {
+    transform: translateY(-50%) translateX(-5px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-50%) translateX(0);
+    opacity: 1;
+  }
 }
 
 .venue {
