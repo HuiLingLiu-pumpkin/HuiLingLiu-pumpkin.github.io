@@ -70,27 +70,27 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 <h2 id="publications" class="section-title">📝 Publications</h2>
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
-  - Youngeun Kim*, Youjia Zhang*, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong†
+  - Youngeun Kim<sup>*</sup>, Youjia Zhang<sup>*</sup>, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong<sup>†</sup>
   - *CVPR 2026* [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
 
 - **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**
-  - Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, **Huiling Liu**, and Sungeun Hong†
+  - Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, **Huiling Liu**, and Sungeun Hong<sup>†</sup>
   - *NeurIPS 2025* [[Project Page](https://aim-skku.github.io/ADAPT/)]
 
 - **CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models**
-  - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong†
+  - Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong<sup>†</sup>
   - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
 
 - **Identifying and Ranking Influential Spreaders in Complex Networks by Localized Decreasing Gravity Model**
-  - Nan Xiang†, Xiao Tang, **Huiling Liu**, and Xiaoxia Ma
+  - Nan Xiang<sup>†</sup>, Xiao Tang, **Huiling Liu**, and Xiaoxia Ma
   - *The Computer Journal*, 67(5): 1727–1746, 2024 [[DOI](https://doi.org/10.1093/comjnl/bxad097)]
 
 - **Fiber-Optic Sensors for Online Detection of Corrosion Degree of Stone Artifacts**
-  - Xianshun Cheng, Lingnan Kong, Yang Liu, Xuefeng He, Quanhua Xie, Xiaoling Peng, Yuan Zhou, Yuanyuan He, Bo Wan, **Huiling Liu**, Dong Lai, and Nianbing Zhong†
+  - Xianshun Cheng, Lingnan Kong, Yang Liu, Xuefeng He, Quanhua Xie, Xiaoling Peng, Yuan Zhou, Yuanyuan He, Bo Wan, **Huiling Liu**, Dong Lai, and Nianbing Zhong<sup>†</sup>
   - *IEEE Sensors Journal*, 24(4): 4449–4457, 2024 [[DOI](https://doi.org/10.1109/JSEN.2023.3343074)]
 
 - **Graph-Augmentation-Free Self-Supervised Learning for Social Recommendation**
-  - Nan Xiang†, Xiaoxia Ma, **Huiling Liu**, Xiao Tang, and Lu Wang
+  - Nan Xiang<sup>†</sup>, Xiaoxia Ma, **Huiling Liu**, Xiao Tang, and Lu Wang
   - *Applied Sciences*, 13(5): 3034, 2023 [[DOI](https://doi.org/10.3390/app13053034)]
 
 
