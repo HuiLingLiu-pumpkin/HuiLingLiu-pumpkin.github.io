@@ -75,19 +75,19 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 # 📖 Educations
 
-- *2024.03 - Present:* Sungkyunkwan University, South Korea
+- **Sungkyunkwan University**, South Korea, 2024.03 - Present 
   - Ph.D. Student, Department of Immersive Media Engineering
   - Advisor: Prof. [Sungeun Hong](https://www.csehong.com/)
 
-- *2020.09 - 2023.06:* Chongqing University of Technology, China
+- **Chongqing University of Technology**, China, 2020.09 - 2023.06 
   - M.S. in Information and Communication Engineering
   - Advisor: Prof. [Nan Xiang](https://scholar.google.com/citations?hl=en&user=i96jKnQAAAAJ&view_op=list_works&sortby=pubdate)
 
-- *2022.03 - 2022.08:* KAIST, South Korea
+- **KAIST**, South Korea, 2022.03 - 2022.08
   - Visiting Student, [NICA Lab](https://nica.kaist.ac.kr/)
 
 
-- *2015.09 - 2019.06:* Suzhou University, China
+- **Suzhou University**, China, 2015.09 - 2019.06
   - B.Eng. in Communication Engineering
 
 
