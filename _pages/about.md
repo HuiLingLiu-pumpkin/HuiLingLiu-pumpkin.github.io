@@ -8,6 +8,39 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+.section-title {
+  position: relative;
+  scroll-margin-top: 80px;
+}
+
+.section-title:target::before {
+  content: "👉";
+  position: absolute;
+  left: -36px;
+  animation: point-bounce 1.2s ease-in-out 2;
+}
+
+.section-title:target {
+  background: #fff7d6;
+  border-radius: 6px;
+  padding-left: 6px;
+  transition: background 0.3s ease;
+}
+
+@keyframes point-bounce {
+  0% { transform: translateX(-8px); opacity: 0; }
+  30% { transform: translateX(0); opacity: 1; }
+  60% { transform: translateX(-4px); opacity: 1; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+</style>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -15,20 +48,18 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<h2 id="about-me" class="section-title">About Me</h2>
 
 I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by Prof. [Sungeun Hong](https://www.csehong.com/) in the [AI & Media Lab (AIM Lab)](https://aim.skku.edu/home). My research interests include vision-language models, multimodal learning, visual token pruning, and test-time adaptation.
 
 
-<a id="news"></a>
-## 🔥 News
+<h2 id="news" class="section-title">🔥 News</h2>
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2026. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR: Top 10%).
 
 
-<a id="publications"></a>
-## 📝 Publications
+<h2 id="publications" class="section-title">📝 Publications</h2>
 - **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**
   - Youngeun Kim, Youjia Zhang*, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong
   - *CVPR 2026* [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
@@ -42,8 +73,7 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - *International Journal of Computer Vision (IJCV), 2025* [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)]
 
 
-<a id="projects"></a>
-## 📁 Projects
+<h2 id="projects" class="section-title">📁 Projects</h2>
 - ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (2026.03 – Present)  
   - Funded by the National Research Foundation of Korea
   - This project studies a world model-based robotic manipulation framework that integrates visual and tactile information under non-standard tactile sensor environments. It focuses on sensor-invariant tactile representation learning and visuo-tactile sim-to-real transfer for stable and precise robotic manipulation across diverse sensors and environments.
@@ -53,19 +83,16 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
   - This project aims to develop a human-oriented AI model that can understand and explain diverse physical phenomena and causal relationships through cognitive science-inspired learning mechanisms.
 
 
-<a id="honors-and-awards"></a>
-## 🎖️ Honors and Awards
+<h2 id="honors-and-awards" class="section-title">🎖️ Honors and Awards</h2>
 - **SKKU STEM Full Scholarship**, 2024 – Present.
 - **IEIE Encouraging Paper Award**, 2024.
 
 
-<a id="patents"></a>
-## 🪄 Patents
+<h2 id="patents" class="section-title">🪄 Patents</h2>
 - **Apparatus and Method for Prompt Tuning**  ( U.S. Patent Application No. 19/545,275; Pending.)
 
 
-<a id="academic-activities"></a>
-## 💬 Academic Activities
+<h2 id="academic-activities" class="section-title">💬 Academic Activities</h2>
 ### Reviewer
 - NeurIPS 2025
 - CVPR 2026
@@ -77,8 +104,7 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 - **Introduction to Deep Learning**, SKKU, Fall 2024.
 
 
-<a id="education"></a>
-## 🎓 Education
+<h2 id="education" class="section-title">🎓 Education</h2>
 - **Sungkyunkwan University**, South Korea, 2024.03 - Present 
   - Ph.D. Student, Department of Immersive Media Engineering
   - Advisor: Prof. [Sungeun Hong](https://www.csehong.com/)
