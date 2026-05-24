@@ -27,17 +27,10 @@ I am a Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### 2026
-
 **ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**  
 Youngeun Kim, Youjia Zhang*, **Huiling Liu**, Aecheon Jung, Sunwoo Lee, and Sungeun Hong  
 *CVPR 2026*  
 [[Project Page](https://aim-skku.github.io/ZOO-Prune/)]
-
-### 2025
 
 **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**  
 Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, **Huiling Liu**, and Sungeun Hong  
@@ -48,8 +41,7 @@ Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, **Huiling Liu**, and 
 Youjia Zhang, **Huiling Liu**, Youngeun Kim, and Sungeun Hong  
 *International Journal of Computer Vision (IJCV), 2025*  
 [Q1, JCR Top 3%, IF 11.6] [[DOI](https://link.springer.com/article/10.1007/s11263-025-02508-1)] 
-</div>
-</div>
+
 
 
 # 🎖 Honors and Awards
