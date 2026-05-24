@@ -30,7 +30,8 @@ html {
   content: "";
   position: absolute;
   left: -70px;
-  top: 60%;
+  top: 50%;
+  margin-top: 18px;
   width: 60px;
   height: 60px;
   background-image: url("{{ '/images/Point.jpg' | relative_url }}");
