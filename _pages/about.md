@@ -31,8 +31,8 @@ html {
   position: absolute;
   left: -42px;
   top: 50%;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   background-image: url("{{ '/images/Point.jpg' | relative_url }}");
   background-size: contain;
   background-repeat: no-repeat;
